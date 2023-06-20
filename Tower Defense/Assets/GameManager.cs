@@ -2,10 +2,14 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    private bool gameEnded = false;
+    public static bool gameEnded;
+
+    public GameObject gameOverUI;
+    
     // Start is called before the first frame update
     void Start()
     {
+        gameEnded = false;
     }
 
     // Update is called once per frame
@@ -16,7 +20,7 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        if (PlayerStats.instance.playerLives <= 0)
+        if (PlayerStats.instance.playerLives <= 0 || Input.GetKeyDown("c"))
         {
             EndGame();
         }
@@ -25,6 +29,6 @@ public class GameManager : MonoBehaviour
     private void EndGame()
     {
         gameEnded = true;
-        Debug.Log("Game Over!");
+        gameOverUI.SetActive(true);
     }
 }

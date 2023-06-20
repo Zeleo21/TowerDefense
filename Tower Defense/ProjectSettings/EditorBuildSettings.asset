@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TowerDefense.unity
+    guid: eba7086b7d1548e49b17d3d5ef598b8e
   m_configObjects: {}

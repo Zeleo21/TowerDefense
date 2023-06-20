@@ -16,6 +16,8 @@ public class PlayerStats : MonoBehaviour
     public int playerLives;
 
     public TMP_Text playerLivesText;
+
+    public int roundsSurvived;
     
     void Awake()
     {
@@ -30,8 +32,9 @@ public class PlayerStats : MonoBehaviour
     void Start()
     {
         playerMoney = 150; // starting money
-        playerLives = 15;
+        playerLives = 1;
         playerLivesText.text = playerLives.ToString();
+        roundsSurvived = 0;
     }
 
     // Update is called once per frame
