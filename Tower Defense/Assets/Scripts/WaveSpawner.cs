@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using System.Collections;
 using TMPro;
@@ -30,7 +31,8 @@ public class WaveSpawner : MonoBehaviour
             countdown = timeBetweenWaves;
         }
         countdown -= Time.deltaTime;
-        waveText.text = "Next wave in : " +  Mathf.Round(countdown);
+        countdown = Mathf.Clamp(countdown, 0f, Mathf.Infinity);
+        waveText.text = string.Format("{0:00.00}", countdown);
     }
 
     IEnumerator SpawnWave()

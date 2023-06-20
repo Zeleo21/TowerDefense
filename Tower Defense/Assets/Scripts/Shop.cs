@@ -1,19 +1,18 @@
-using System.Collections;
-using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
     private BuildManager _buildManager;
 
+    public TurretFactory cannonTurret;
+
     private void Start()
     {
         _buildManager = BuildManager.instance;
     }
-    public void PurchaseStandardTurret()
+    public void SelectStandardTurret()
     {
         Debug.Log("BUYING THE TURRET");
-        _buildManager.SetTurretToBuild(_buildManager.standardTurret);
+        _buildManager.SetTurretToBuild(cannonTurret);
     }
 }

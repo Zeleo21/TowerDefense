@@ -9,6 +9,8 @@ public class Bullet : MonoBehaviour
 
     public GameObject impactEffect;
 
+    public int damage;
+
     // Update is called once per frame
     void Update()
     {
@@ -36,7 +38,18 @@ public class Bullet : MonoBehaviour
     {
         GameObject particles =  Instantiate(impactEffect, transform.position, transform.rotation);
         Destroy(particles, 2f);
-        Destroy(target.gameObject);
         Destroy(gameObject);
+        Damage(target);
+    }
+
+    public void Damage(Transform enemy)
+    {
+        Enemy e = enemy.GetComponent<Enemy>();
+        if (e == null)
+        {
+            Debug.Log("ERROR : NO SCRIPT ENEMY");
+            return;
+        }
+        e.TakeDamage(damage);
     }
 }

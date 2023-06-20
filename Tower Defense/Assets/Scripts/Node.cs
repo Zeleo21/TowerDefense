@@ -7,10 +7,12 @@ public class Node : MonoBehaviour
     public Color tileColor;
 
     private Color startColor;
+
+    public Color notEnoughMoneyColor;
     
     private Renderer _renderer;
 
-    private GameObject turret;
+    public GameObject turret;
 
     private BuildManager _buildManager;
 
@@ -32,21 +34,19 @@ public class Node : MonoBehaviour
     }
     private void OnMouseEnter()
     {
-        Debug.Log(ManageableMaterial.name);
-        Debug.Log(_renderer.sharedMaterial.name);
-        if (!ManageableTexture())
+        if (!ManageableTexture() || EventSystem.current.IsPointerOverGameObject() || !_buildManager.canBuild)
         {
             return;
         }
-        if (EventSystem.current.IsPointerOverGameObject())
+
+        if (_buildManager.canPurchase())
         {
-            return;
+            _renderer.material.color = tileColor;
         }
-        if (_buildManager.GetTurretToBuild() == null)
+        else
         {
-            return;
+            _renderer.material.color = notEnoughMoneyColor;
         }
-        _renderer.material.color = tileColor;
     }
 
     private void OnMouseExit()
@@ -56,19 +56,11 @@ public class Node : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if (!ManageableTexture())
+        
+        if (!ManageableTexture() || EventSystem.current.IsPointerOverGameObject() || !_buildManager.canBuild || turret != null)
         {
             return;
         }
-        if (EventSystem.current.IsPointerOverGameObject())
-        {
-            return;
-        }
-        if (turret != null || _buildManager.GetTurretToBuild() == null)
-        {
-            return;
-        }
-        GameObject turretToBuild = _buildManager.GetTurretToBuild();
-        turret = Instantiate(turretToBuild, transform.position, transform.rotation);
+        _buildManager.BuildTurretOn(this);
     }
 }
