@@ -237,6 +237,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &13097750
 GameObject:
   m_ObjectHideFlags: 0
@@ -480,6 +481,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &24692876
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -656,6 +658,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &28161948
 GameObject:
   m_ObjectHideFlags: 0
@@ -770,6 +773,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &42886009
 GameObject:
   m_ObjectHideFlags: 0
@@ -884,6 +888,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &52089085
 GameObject:
   m_ObjectHideFlags: 0
@@ -998,6 +1003,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &52291841
 GameObject:
   m_ObjectHideFlags: 0
@@ -1112,6 +1118,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &53379590
 GameObject:
   m_ObjectHideFlags: 0
@@ -1226,6 +1233,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &57864768
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1499,6 +1507,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &66886206
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1896,6 +1905,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &88105720
 GameObject:
   m_ObjectHideFlags: 0
@@ -2010,6 +2020,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &105193501
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2661,6 +2672,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &117662517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2872,6 +2884,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &120644036
 GameObject:
   m_ObjectHideFlags: 0
@@ -2986,6 +2999,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &122165944
 GameObject:
   m_ObjectHideFlags: 0
@@ -3259,6 +3273,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &165583212
 GameObject:
   m_ObjectHideFlags: 0
@@ -3373,6 +3388,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &169519098
 GameObject:
   m_ObjectHideFlags: 0
@@ -3487,6 +3503,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &170826945
 GameObject:
   m_ObjectHideFlags: 0
@@ -3601,6 +3618,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &171057393
 GameObject:
   m_ObjectHideFlags: 0
@@ -3715,6 +3733,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &174804607
 GameObject:
   m_ObjectHideFlags: 0
@@ -3829,6 +3848,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &175017878
 GameObject:
   m_ObjectHideFlags: 0
@@ -3943,6 +3963,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &184121675
 GameObject:
   m_ObjectHideFlags: 0
@@ -4057,6 +4078,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &186163677
 GameObject:
   m_ObjectHideFlags: 0
@@ -4171,6 +4193,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &190126775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4409,6 +4432,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &210005661
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4585,6 +4609,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &213014442
 GameObject:
   m_ObjectHideFlags: 0
@@ -4699,6 +4724,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &221330544
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5710,6 +5736,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &246197689 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4367797782630074, guid: 8d102e899c856934a9f58af9c7508d59, type: 3}
@@ -5829,6 +5856,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &267470293
 GameObject:
   m_ObjectHideFlags: 0
@@ -5943,6 +5971,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &270154676
 GameObject:
   m_ObjectHideFlags: 0
@@ -6154,6 +6183,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &278020244
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6330,6 +6360,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &285587479
 GameObject:
   m_ObjectHideFlags: 0
@@ -6444,6 +6475,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &291350472
 GameObject:
   m_ObjectHideFlags: 0
@@ -6558,6 +6590,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &307418130
 GameObject:
   m_ObjectHideFlags: 0
@@ -6672,6 +6705,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &316498208
 GameObject:
   m_ObjectHideFlags: 0
@@ -6786,6 +6820,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &318001303
 GameObject:
   m_ObjectHideFlags: 0
@@ -6900,6 +6935,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &321355817
 GameObject:
   m_ObjectHideFlags: 0
@@ -7014,6 +7050,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &341236595
 GameObject:
   m_ObjectHideFlags: 0
@@ -7128,6 +7165,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &345628812
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7339,6 +7377,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &357410082
 GameObject:
   m_ObjectHideFlags: 0
@@ -7638,6 +7677,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &398005783
 GameObject:
   m_ObjectHideFlags: 0
@@ -7752,6 +7792,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &421298204
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8047,6 +8088,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &438103024
 GameObject:
   m_ObjectHideFlags: 0
@@ -8161,6 +8203,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &445068414
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8564,6 +8607,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &459207291
 GameObject:
   m_ObjectHideFlags: 0
@@ -8678,6 +8722,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &474688674
 GameObject:
   m_ObjectHideFlags: 0
@@ -8792,6 +8837,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &474815689
 GameObject:
   m_ObjectHideFlags: 0
@@ -8906,6 +8952,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &477888912
 GameObject:
   m_ObjectHideFlags: 0
@@ -9117,6 +9164,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &497747712
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9293,6 +9341,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &501721314
 GameObject:
   m_ObjectHideFlags: 0
@@ -9407,6 +9456,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &505579764
 GameObject:
   m_ObjectHideFlags: 0
@@ -9521,6 +9571,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &513615685
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9759,6 +9810,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &533367815
 GameObject:
   m_ObjectHideFlags: 0
@@ -10032,6 +10084,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &541788881
 GameObject:
   m_ObjectHideFlags: 0
@@ -10485,6 +10538,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &565856384
 GameObject:
   m_ObjectHideFlags: 0
@@ -10758,6 +10812,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &582474204
 GameObject:
   m_ObjectHideFlags: 0
@@ -10872,6 +10927,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &605063837
 GameObject:
   m_ObjectHideFlags: 0
@@ -11037,6 +11093,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &613838657
 GameObject:
   m_ObjectHideFlags: 0
@@ -11151,6 +11208,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &619096531
 GameObject:
   m_ObjectHideFlags: 0
@@ -11265,6 +11323,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &623820676
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11529,6 +11588,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &643011434
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11771,6 +11831,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &662851332
 GameObject:
   m_ObjectHideFlags: 0
@@ -11885,6 +11946,297 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
+--- !u!1 &679334529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679334530}
+  - component: {fileID: 679334532}
+  - component: {fileID: 679334531}
+  m_Layer: 0
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &679334530
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679334529}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1462316859}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &679334531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679334529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: <b>Upgrade</b> -125
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4281479730
+  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 12
+  m_fontSizeBase: 12
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &679334532
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679334529}
+  m_CullTransparentMesh: 1
+--- !u!1 &681932062
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 681932063}
+  - component: {fileID: 681932067}
+  - component: {fileID: 681932066}
+  - component: {fileID: 681932065}
+  - component: {fileID: 681932064}
+  m_Layer: 0
+  m_Name: Sell
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &681932063
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681932062}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00000091824}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2041564362}
+  m_Father: {fileID: 1357342867}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 87.6615, y: -28}
+  m_SizeDelta: {x: 58.441, y: 56}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &681932064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681932062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
+--- !u!114 &681932065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681932062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 0, g: 0, b: 0, a: 0.6117647}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 681932066}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1484061689}
+        m_TargetAssemblyTypeName: NodeUI, Assembly-CSharp
+        m_MethodName: Sell
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &681932066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681932062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &681932067
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681932062}
+  m_CullTransparentMesh: 1
 --- !u!1 &682476285
 GameObject:
   m_ObjectHideFlags: 0
@@ -11999,6 +12351,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &692265220
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12175,6 +12528,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -12383,6 +12737,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &714273752
 GameObject:
   m_ObjectHideFlags: 0
@@ -12497,6 +12852,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &716954216
 GameObject:
   m_ObjectHideFlags: 0
@@ -12611,6 +12967,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &718595157
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12787,6 +13144,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &724348815
 GameObject:
   m_ObjectHideFlags: 0
@@ -13036,6 +13394,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &730575169
 GameObject:
   m_ObjectHideFlags: 0
@@ -13150,6 +13509,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &733578466
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13321,6 +13681,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &749033294
 GameObject:
   m_ObjectHideFlags: 0
@@ -13435,6 +13796,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &757619402
 GameObject:
   m_ObjectHideFlags: 0
@@ -13549,6 +13911,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &761748390
 GameObject:
   m_ObjectHideFlags: 0
@@ -13663,6 +14026,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &762005113 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4958913941910646, guid: f4f82206765cef54ca8f19ce34136e8a, type: 3}
@@ -14154,6 +14518,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &827419547
 GameObject:
   m_ObjectHideFlags: 0
@@ -14268,6 +14633,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &839213268
 GameObject:
   m_ObjectHideFlags: 0
@@ -14382,6 +14748,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &841994921
 GameObject:
   m_ObjectHideFlags: 0
@@ -14496,6 +14863,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &852664268
 GameObject:
   m_ObjectHideFlags: 0
@@ -14610,6 +14978,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &857680868 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4856972334480458, guid: 45a2654ed7e50b945bbbf5ab0a76e645, type: 3}
@@ -14729,6 +15098,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &862647351
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15002,6 +15372,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &868402376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15178,6 +15549,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &892003641
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15354,6 +15726,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &903634776
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15530,6 +15903,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &917068615
 GameObject:
   m_ObjectHideFlags: 0
@@ -15644,6 +16018,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &922783723
 GameObject:
   m_ObjectHideFlags: 0
@@ -15758,6 +16133,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &937194040
 GameObject:
   m_ObjectHideFlags: 0
@@ -15872,6 +16248,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &938027735
 GameObject:
   m_ObjectHideFlags: 0
@@ -15986,6 +16363,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &939285705
 GameObject:
   m_ObjectHideFlags: 0
@@ -16100,6 +16478,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &940802562
 GameObject:
   m_ObjectHideFlags: 0
@@ -16596,6 +16975,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &976841739
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16999,6 +17379,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1008192799
 GameObject:
   m_ObjectHideFlags: 0
@@ -17113,6 +17494,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1011324853
 GameObject:
   m_ObjectHideFlags: 0
@@ -17324,6 +17706,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1024217999
 GameObject:
   m_ObjectHideFlags: 0
@@ -17438,6 +17821,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1024669818
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17706,6 +18090,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1027791833
 GameObject:
   m_ObjectHideFlags: 0
@@ -17820,6 +18205,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1029568086
 GameObject:
   m_ObjectHideFlags: 0
@@ -17934,6 +18320,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1037949270
 GameObject:
   m_ObjectHideFlags: 0
@@ -18048,6 +18435,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1039167724
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18224,6 +18612,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1050650454
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18457,6 +18846,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1074309288
 GameObject:
   m_ObjectHideFlags: 0
@@ -18571,6 +18961,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1077912259
 GameObject:
   m_ObjectHideFlags: 0
@@ -18849,6 +19240,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1085221674
 GameObject:
   m_ObjectHideFlags: 0
@@ -19122,6 +19514,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1105668568
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19298,6 +19691,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1111804898
 GameObject:
   m_ObjectHideFlags: 0
@@ -19488,6 +19882,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1117338241
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19664,6 +20059,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1133257718
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19840,6 +20236,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1141977983
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20118,6 +20515,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1152277668
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20558,6 +20956,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1187923582
 GameObject:
   m_ObjectHideFlags: 0
@@ -20769,6 +21168,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1204271862
 GameObject:
   m_ObjectHideFlags: 0
@@ -20883,6 +21283,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1210273273
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21342,6 +21743,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1224952424
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21518,6 +21920,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1227243818
 GameObject:
   m_ObjectHideFlags: 0
@@ -21632,6 +22035,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1231268085
 GameObject:
   m_ObjectHideFlags: 0
@@ -21746,6 +22150,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1234896113
 GameObject:
   m_ObjectHideFlags: 0
@@ -21860,6 +22265,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1254596867
 GameObject:
   m_ObjectHideFlags: 0
@@ -21974,6 +22380,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1256750925
 GameObject:
   m_ObjectHideFlags: 0
@@ -22088,6 +22495,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1259535836
 GameObject:
   m_ObjectHideFlags: 0
@@ -22605,6 +23013,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1273219401
 GameObject:
   m_ObjectHideFlags: 0
@@ -22719,6 +23128,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1276286825
 GameObject:
   m_ObjectHideFlags: 0
@@ -22833,6 +23243,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1277238870
 GameObject:
   m_ObjectHideFlags: 0
@@ -22947,6 +23358,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1279476280
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23123,6 +23535,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1293747170
 GameObject:
   m_ObjectHideFlags: 0
@@ -23237,6 +23650,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1299004790
 GameObject:
   m_ObjectHideFlags: 0
@@ -23351,6 +23765,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1299414350
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23713,6 +24128,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &1338824501 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4856972334480458, guid: 45a2654ed7e50b945bbbf5ab0a76e645, type: 3}
@@ -23832,6 +24248,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1348177032
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24008,6 +24425,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1357239244
 GameObject:
   m_ObjectHideFlags: 0
@@ -24122,6 +24540,112 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
+--- !u!1 &1357342866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1357342867}
+  - component: {fileID: 1357342870}
+  - component: {fileID: 1357342869}
+  - component: {fileID: 1357342868}
+  m_Layer: 0
+  m_Name: Buttons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1357342867
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357342866}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1462316859}
+  - {fileID: 681932063}
+  m_Father: {fileID: 1407838742}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1357342868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357342866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 0
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 0
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
+--- !u!114 &1357342869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357342866}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1357342870
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357342866}
+  m_CullTransparentMesh: 1
 --- !u!1 &1357577308
 GameObject:
   m_ObjectHideFlags: 0
@@ -24236,6 +24760,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1374994716
 GameObject:
   m_ObjectHideFlags: 0
@@ -24350,6 +24875,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1377713104
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24526,6 +25052,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1392467845
 GameObject:
   m_ObjectHideFlags: 0
@@ -24640,6 +25167,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1393606565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24816,6 +25344,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1401864872
 GameObject:
   m_ObjectHideFlags: 0
@@ -24930,6 +25459,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1404413217
 GameObject:
   m_ObjectHideFlags: 0
@@ -25044,6 +25574,108 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
+--- !u!1 &1407838741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1407838742}
+  - component: {fileID: 1407838745}
+  - component: {fileID: 1407838744}
+  - component: {fileID: 1407838743}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1407838742
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407838741}
+  m_LocalRotation: {x: 0.3909934, y: -0.5891725, z: 0.3909934, w: 0.5891725}
+  m_LocalPosition: {x: 0, y: 0, z: 6.74}
+  m_LocalScale: {x: 0.07, y: 0.07, z: 0.07}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1357342867}
+  m_Father: {fileID: 1484061688}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 67.139, y: -90, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1.15, y: 4.67}
+  m_SizeDelta: {x: 113.5065, y: 53.8362}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1407838743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407838741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1407838744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407838741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 1
+--- !u!223 &1407838745
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407838741}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 963194227}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1 &1412671748
 GameObject:
   m_ObjectHideFlags: 0
@@ -25451,6 +26083,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1454690458
 GameObject:
   m_ObjectHideFlags: 0
@@ -25565,6 +26198,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1456784153
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25736,6 +26370,162 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
+--- !u!1 &1462316858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1462316859}
+  - component: {fileID: 1462316863}
+  - component: {fileID: 1462316862}
+  - component: {fileID: 1462316861}
+  - component: {fileID: 1462316860}
+  m_Layer: 0
+  m_Name: Upgrade
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1462316859
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462316858}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00000091824}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 679334530}
+  m_Father: {fileID: 1357342867}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 29.2205, y: -28}
+  m_SizeDelta: {x: 58.441, y: 56}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1462316860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462316858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
+--- !u!114 &1462316861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462316858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 0, g: 0, b: 0, a: 0.6117647}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1462316862}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1484061689}
+        m_TargetAssemblyTypeName: NodeUI, Assembly-CSharp
+        m_MethodName: Upgrade
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1462316862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462316858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1462316863
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462316858}
+  m_CullTransparentMesh: 1
 --- !u!1 &1470098468
 GameObject:
   m_ObjectHideFlags: 0
@@ -25850,6 +26640,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1473397625
 GameObject:
   m_ObjectHideFlags: 0
@@ -25964,6 +26755,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1476352050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26135,6 +26927,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1479124597
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26197,6 +26990,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7892255856776214183, guid: c4b629af70f68374787c147c125c1711, type: 3}
   m_PrefabInstance: {fileID: 1479124597}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1484061687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1484061688}
+  - component: {fileID: 1484061689}
+  m_Layer: 0
+  m_Name: NodeUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1484061688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484061687}
+  m_LocalRotation: {x: 0.008366909, y: 0.007197244, z: -0.003293436, w: 0.9999337}
+  m_LocalPosition: {x: 46.96, y: 0.55, z: 16.96}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1407838742}
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0.961, y: 0.822, z: -0.371}
+--- !u!114 &1484061689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484061687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6505ae59f1dbae0478e7d2576738ca9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UI: {fileID: 1407838741}
 --- !u!1 &1485305548
 GameObject:
   m_ObjectHideFlags: 0
@@ -26311,6 +27150,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1485925006
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26487,6 +27327,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1498019590
 GameObject:
   m_ObjectHideFlags: 0
@@ -26601,6 +27442,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1498856099
 GameObject:
   m_ObjectHideFlags: 0
@@ -26715,6 +27557,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1499340558
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26891,6 +27734,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1508442118
 GameObject:
   m_ObjectHideFlags: 0
@@ -27005,6 +27849,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1518046634
 GameObject:
   m_ObjectHideFlags: 0
@@ -27202,6 +28047,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1525299537
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27435,6 +28281,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1537629574
 GameObject:
   m_ObjectHideFlags: 0
@@ -27708,6 +28555,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1570655213
 GameObject:
   m_ObjectHideFlags: 0
@@ -27822,6 +28670,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1572253936
 GameObject:
   m_ObjectHideFlags: 0
@@ -27936,6 +28785,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1575147256
 GameObject:
   m_ObjectHideFlags: 0
@@ -28050,6 +28900,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1579936991
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28175,6 +29026,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03b4d22f7df5a484485fb5f08b56921d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turretInMemory:
+    turretPrefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradeCost: 0
+  NodeUi: {fileID: 1484061689}
 --- !u!114 &1591273202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28380,6 +29237,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1602975209
 GameObject:
   m_ObjectHideFlags: 0
@@ -28500,6 +29358,8 @@ MonoBehaviour:
   cannonTurret:
     turretPrefab: {fileID: 8013854806070620831, guid: b9f8bf0b483583e4188d861b256e1070, type: 3}
     cost: 75
+    upgradedPrefab: {fileID: 1281131148181860, guid: 20ce9a778a1a8c84e90e64e4df4c6a05, type: 3}
+    upgradeCost: 125
 --- !u!1 &1611329514
 GameObject:
   m_ObjectHideFlags: 0
@@ -28614,6 +29474,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1611770877
 GameObject:
   m_ObjectHideFlags: 0
@@ -28817,6 +29678,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &1620574648 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4953225598066358, guid: 72b5f3ccc49ab5c4fa326915f1aabbd8, type: 3}
@@ -28936,6 +29798,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1655445248
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29174,6 +30037,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1669700306
 GameObject:
   m_ObjectHideFlags: 0
@@ -29288,6 +30152,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &1673665184 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7892255856776214183, guid: c4b629af70f68374787c147c125c1711, type: 3}
@@ -29412,6 +30277,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1695765128
 GameObject:
   m_ObjectHideFlags: 0
@@ -29623,6 +30489,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1701499090
 GameObject:
   m_ObjectHideFlags: 0
@@ -29737,6 +30604,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1708585748
 GameObject:
   m_ObjectHideFlags: 0
@@ -30063,6 +30931,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &1748445918 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4278446812860420, guid: b8cd47ec0ed55ef4a81e264386f6aee5, type: 3}
@@ -30310,6 +31179,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1784686627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30486,6 +31356,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1788973990
 GameObject:
   m_ObjectHideFlags: 0
@@ -30821,6 +31692,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1801971688
 GameObject:
   m_ObjectHideFlags: 0
@@ -30935,6 +31807,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &1809730661 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4304001766518610, guid: 31d3a77f906791342bc79acdc84f5218, type: 3}
@@ -31263,6 +32136,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1827205201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31439,6 +32313,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1850564084
 GameObject:
   m_ObjectHideFlags: 0
@@ -31553,6 +32428,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1856408888
 GameObject:
   m_ObjectHideFlags: 0
@@ -31667,6 +32543,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1856995159
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31843,6 +32720,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1875903426
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32019,6 +32897,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1884506764
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32257,6 +33136,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1897688574
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32433,6 +33313,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1919702046
 GameObject:
   m_ObjectHideFlags: 0
@@ -32547,6 +33428,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1923714430
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32786,6 +33668,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1937074738
 GameObject:
   m_ObjectHideFlags: 0
@@ -32900,6 +33783,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1946444324
 GameObject:
   m_ObjectHideFlags: 0
@@ -33014,6 +33898,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1949910676
 GameObject:
   m_ObjectHideFlags: 0
@@ -33393,6 +34278,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1962090596
 GameObject:
   m_ObjectHideFlags: 0
@@ -33507,6 +34393,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1962823765
 GameObject:
   m_ObjectHideFlags: 0
@@ -33621,6 +34508,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1962978914
 GameObject:
   m_ObjectHideFlags: 0
@@ -33735,6 +34623,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1963176075
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34035,6 +34924,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &1997993153
 GameObject:
   m_ObjectHideFlags: 0
@@ -34149,6 +35039,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &1998024126
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34387,6 +35278,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &2013996513
 GameObject:
   m_ObjectHideFlags: 0
@@ -34774,6 +35666,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!4 &2038633190 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4866561659205868, guid: fb6e45a6010fdae4b91b4ccbac21425e, type: 3}
@@ -34784,6 +35677,141 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4304001766518610, guid: 31d3a77f906791342bc79acdc84f5218, type: 3}
   m_PrefabInstance: {fileID: 733578466}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2041564361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2041564362}
+  - component: {fileID: 2041564364}
+  - component: {fileID: 2041564363}
+  m_Layer: 0
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2041564362
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2041564361}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 681932063}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2041564363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2041564361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: <b>Sell</b> + price/2
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4281479730
+  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 12
+  m_fontSizeBase: 12
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &2041564364
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2041564361}
+  m_CullTransparentMesh: 1
 --- !u!1 &2052757547
 GameObject:
   m_ObjectHideFlags: 0
@@ -34898,6 +35926,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &2061103343
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35643,6 +36672,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1001 &2103913022
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35819,6 +36849,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &2125664620
 GameObject:
   m_ObjectHideFlags: 0
@@ -36137,6 +37168,7 @@ MonoBehaviour:
   notEnoughMoneyColor: {r: 0.9056604, g: 0.10679956, b: 0.10679956, a: 0}
   turret: {fileID: 0}
   ManageableMaterial: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+  isUpgraded: 0
 --- !u!1 &2130822134
 GameObject:
   m_ObjectHideFlags: 0

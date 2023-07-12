@@ -9,14 +9,23 @@ public class TurretFactory
     public GameObject turretPrefab;
 
     public int cost;
-    
-    void Start()
+
+    public GameObject upgradedPrefab;
+
+    public GameObject UpgradedPrefab
     {
-        
+        get => upgradedPrefab;
+        set => upgradedPrefab = value;
     }
 
-    void Update()
+    public int UpgradeCost
     {
-        
+        get => upgradeCost;
+        set => upgradeCost = value;
     }
+
+    public int upgradeCost;
+    
+    
+    
 }
