@@ -1,0 +1,18 @@
+Pour la structure du projet, c'est assez simple. Elle est organkisé en deux scènes. Une pour le menu principal et l'autre pour le jeu en lui-meme. 
+
+Dans le dossier script vous trouverez toute la logique de programmation : 
+
+-Building est le dossier ou se retrouve tous les éléments avec de l'instantiation de batiments et la séléction de tourelles notamment via le shop.
+-Bullet correspond a la balle qui est tiré par les tourelles.
+-Camera contient les controles de caméra.
+-Enemy contient toute la logique derrière les ennemis;
+-Player contient les infos du joueurs tel que son argent et ses points de vies.
+-UI correspond a tout les menus disponibles dans le jeu.
+-Waves contient la logique d'apparition de vagues. 
+-Waypoints permet de tracer le chemin des adversaires.
+
+Dans la scène Tower Defense, le GameObject GameManager est assez important et regroupe la logique derrière les vagues, certains menus et lest statistiques du joueur.
+
+grounds, nodes et decor sont tout les éléments visibles tout le temps a l'écran
+Il y'a OverlayCanvas qui contient les différents menus.
+NodeUi lui est a part et contient les buttons pour améliorer/vendre. Tout comme InGameCanvas qui possède l'UI de l'argent et du temps entre les vagues.
