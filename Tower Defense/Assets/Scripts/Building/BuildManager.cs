@@ -98,8 +98,6 @@ public class BuildManager : MonoBehaviour
             Quaternion.identity);
         node.turret = turret;
         
-        turretInMemory.cost = turretInMemory.upgradeCost;
-        
         node.isUpgraded = true;
         Debug.Log("Turret upgraded. Current money : " + PlayerStats.instance.playerMoney);
     }

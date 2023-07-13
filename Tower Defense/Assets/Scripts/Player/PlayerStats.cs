@@ -31,8 +31,8 @@ public class PlayerStats : MonoBehaviour
     
     void Start()
     {
-        playerMoney = 150; // starting money
-        playerLives = 1;
+        playerMoney = 225; // starting money
+        playerLives = 3;
         playerLivesText.text = playerLives.ToString();
         roundsSurvived = 0;
     }

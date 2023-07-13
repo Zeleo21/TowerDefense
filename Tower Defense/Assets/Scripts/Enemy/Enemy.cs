@@ -1,7 +1,6 @@
-
-using Palmmedia.ReportGenerator.Core;
+using System;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class Enemy : MonoBehaviour
 {
     public float speed = 10f;
@@ -9,13 +8,23 @@ public class Enemy : MonoBehaviour
     private Transform target;
     private int waypointIndex = 0;
 
-    public int health = 100;
+    public float startHealth = 100f;
+
+    private float health;
 
     public int rewardForKilling;
+
+    public Image healthBar;
+
+    public int totalNumberOfEnnemies;
+    
+    private float minScalingFactor = 0.2f;
+    private float maxScalingFactor = 0.8f;
+    
     void Start()
     {
         this.target = Waypoints.points[waypointIndex];
-        rewardForKilling = 30;
+        health = startHealth;
     }
 
     void Update()
@@ -34,6 +43,7 @@ public class Enemy : MonoBehaviour
         if (this.waypointIndex >= Waypoints.points.Count - 1)
         {
             Destroy(gameObject);
+            WaveSpawner.EnemiesAlive -= 1;
             if (PlayerStats.instance.playerLives > 0)
             {
                 PlayerStats.instance.LoseHealth();
@@ -47,6 +57,8 @@ public class Enemy : MonoBehaviour
     public void TakeDamage(int damage)
     {
         this.health -= damage;
+        float fill = health / startHealth;
+        healthBar.fillAmount = fill;
         Debug.Log("LIFE IS : " + health);
         if (health <= 0)
         {
@@ -54,9 +66,24 @@ public class Enemy : MonoBehaviour
         }
     }
 
+    public float CalculateScalingFactor()
+    {
+        float scalingFactor = Mathf.Lerp(minScalingFactor, maxScalingFactor, (float) WaveSpawner.EnemiesAlive / WaveSpawner.numberOfEnnemies);
+        return scalingFactor;
+    }
+    
+    public int GetRewardForKilling()
+    {
+        float scalingFactor = CalculateScalingFactor();
+        int reward = Mathf.RoundToInt(rewardForKilling * (scalingFactor));
+        return reward;
+    }
+
+
     private void Die()
     {
-        PlayerStats.instance.playerMoney += rewardForKilling;
+        PlayerStats.instance.playerMoney += GetRewardForKilling();
+        WaveSpawner.EnemiesAlive -= 1;
         Destroy(gameObject);
     }
     

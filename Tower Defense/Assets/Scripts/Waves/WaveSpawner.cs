@@ -7,10 +7,12 @@ using UnityEngine.UI;
 
 public class WaveSpawner : MonoBehaviour
 {
+    public static int EnemiesAlive = 0;
 
-    [SerializeField]
-    private Transform ennemyPrefab;
+    public Wave[] waves;
 
+    public static int numberOfEnnemies;
+    
     [SerializeField]
     private float timeBetweenWaves = 5f;
 
@@ -23,12 +25,24 @@ public class WaveSpawner : MonoBehaviour
 
     public TMP_Text waveText;
 
+    public GameObject VictoryUi;
+    
     void Update()
     {
+        if (EnemiesAlive <= 0 && waveIndex == waves.Length)
+        {
+            this.VictoryUi.SetActive(true);
+            this.enabled = false;
+        }
+        if (EnemiesAlive > 0)
+        {
+            return;
+        }
         if (countdown <= 0)
         {
             StartCoroutine(SpawnWave());
             countdown = timeBetweenWaves;
+            return;
         }
         countdown -= Time.deltaTime;
         countdown = Mathf.Clamp(countdown, 0f, Mathf.Infinity);
@@ -38,16 +52,22 @@ public class WaveSpawner : MonoBehaviour
     IEnumerator SpawnWave()
     {
         PlayerStats.instance.roundsSurvived += 1;
-        waveIndex += 1;
-        for (int i = 0; i < waveIndex; i++)
+
+        Wave currentWave = waves[waveIndex];
+        
+        numberOfEnnemies = waves[waveIndex].enemies.Length;
+        
+        for (int i = 0; i < currentWave.enemies.Length; i++)
         {
-            SpawnEnemy();
-            yield return new WaitForSeconds(0.5f);
+            SpawnEnemy(currentWave.enemies[i]);
+            yield return new WaitForSeconds(1f / currentWave.rate);
         }
+        waveIndex += 1;
     }
 
-    void SpawnEnemy()
+    void SpawnEnemy(GameObject ennemyPrefab)
     {
         Instantiate(ennemyPrefab, spawnPoint.position, spawnPoint.rotation);
+        EnemiesAlive += 1;
     }
 }
