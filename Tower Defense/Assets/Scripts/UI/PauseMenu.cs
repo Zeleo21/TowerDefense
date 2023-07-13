@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -21,9 +22,11 @@ public class PauseMenu : MonoBehaviour
         if (PauseUi.activeSelf)
         {
             Time.timeScale = 0f;
-            return;
         }
-        Time.timeScale = 1f;
+        else { 
+            Debug.Log("TOGGLING BACK");
+            Time.timeScale = 1f;
+        }
     }
 
     public void Retry()
